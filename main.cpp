@@ -1,5 +1,5 @@
 #include "max.h"
-#include "KnapSack"
+#include "KnapSack.h"
 int main()
 {
    int val[] = { 60, 100, 120 };
